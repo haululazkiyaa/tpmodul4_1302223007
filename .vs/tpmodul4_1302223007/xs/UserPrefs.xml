@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{727DDDA4-E5FE-4FF4-9C95-74994D02F34D}|Default">
-  <MonoDevelop.Ide.ItemProperties.tpmodul4__1302223007 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul4_1302223007/KodePos.cs">
+    <Files>
+      <File FileName="tpmodul4_1302223007/Program.cs" Line="1" Column="1" />
+      <File FileName="tpmodul4_1302223007/KodePos.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tpmodul4_1302223007">
+            <Node name="tpmodul4_1302223007" expanded="True">
+              <Node name="KodePos.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tpmodul4__1302223007 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
